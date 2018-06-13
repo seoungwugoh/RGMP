@@ -35,7 +35,7 @@ This software is for Non-commercial Research Purposes only.
 If you use this code please cite:
 ```
 @InProceedings{oh2018fast,
-author = {Oh, Seoung Wug and Lee, Joon-Young and Sunkavali, Kalyan and Kim, Seon Joo},
+author = {Oh, Seoung Wug and Lee, Joon-Young and Sunkavalli, Kalyan and Kim, Seon Joo},
 title = {Fast Video Object Segmentation by Reference-Guided Mask Propagation},
 booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
 year = {2018}
