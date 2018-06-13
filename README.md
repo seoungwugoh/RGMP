@@ -7,8 +7,9 @@ ___
 ## Test Environment
 - Ubuntu 
 - python 3.6
-  + Pytorch 0.3.1 (installed with CUDA capability)
-  + opencv
+- Pytorch 0.3.1
+  + installed with CUDA capability
+
 
 
 ## How to Run
