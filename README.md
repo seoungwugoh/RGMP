@@ -1,12 +1,10 @@
-## Fast Video Object Segmentation by Reference-Guided Mask Propagation
-### Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
-### CVPR 2018
+# Fast Video Object Segmentation by Reference-Guided Mask Propagation
+#### Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
+#### CVPR 2018
 ---
 This is the official demo code for the paper. [PDF](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1029.pdf)
 
----
 ## Test Environment
-___
 - Ubuntu 
 - python 3.6
   + Pytorch 0.3.1 (installed with CUDA capability)
@@ -14,7 +12,6 @@ ___
 
 
 ## How to run
-___
 1) Download [DAVIS-2017](https://davischallenge.org/davis2017/code.html).
 2) Edit path for `DAVIS_ROOT` in run.py.
 ``` python
