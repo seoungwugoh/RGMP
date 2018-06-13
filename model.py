@@ -133,10 +133,3 @@ class RGMP(nn.Module):
         super(RGMP, self).__init__()
         self.Encoder = Encoder()
         self.Decoder = Decoder()
-
-    def forward(self):
-        fr5, fr4, fr3, fr2  = self.Encoder(f1, p1)
-        sr5, sr4, sr3, sr2  = self.Encoder(f2, p2)
-
-        e = self.Decoder(sr5, fr5, sr4, sr3, sr2)
-        return e
