@@ -27,7 +27,7 @@ python run.py
 ``` 
 python run.py -MO
 ```
-6) Results will be saved in `./results/SO` or `./results/SO`.
+6) Results will be saved in `./results/SO` or `./results/MO`.
 
 
 ## Use
