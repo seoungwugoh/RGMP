@@ -18,7 +18,7 @@ ___
 ``` python
 DAVIS_ROOT = '<Your DAVIS path>'
 ```
-3) Download [weights.pth](https://davischallenge.org/davis2017/code.html) and place it the same folde as run.py.
+3) Download [weights.pth](https://www.dropbox.com/s/qrtrbdn3n8qy5en/weights.pth?dl=0) and place it the same folde as run.py.
 4) To run single-object video object segmentation on DAVIS-2016 validation.
 ``` 
 python run.py
@@ -27,7 +27,7 @@ python run.py
 ``` 
 python run.py -MO
 ```
-6) Results will be saved in `./results/SO` or `./results/SO`.
+6) Results will be saved in `./results/SO` or `./results/MO`.
 
 
 ## Use
