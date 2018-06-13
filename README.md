@@ -1,5 +1,5 @@
 # Fast Video Object Segmentation by Reference-Guided Mask Propagation
-#### Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
+#### Seoung Wug Oh, Joon-Young Lee, Kalyan Sunkavalli, Seon Joo Kim
 #### CVPR 2018
 
 This is the official demo code for the paper. [PDF](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/1029.pdf)
