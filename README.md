@@ -8,7 +8,7 @@ ___
 - Ubuntu 
 - python 3.6
 - Pytorch 0.3.1
-  + installed with CUDA capability
+  + installed with CUDA.
 
 
 
