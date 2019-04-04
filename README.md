@@ -30,6 +30,15 @@ python run.py -MO
 6) Results will be saved in `./results/SO` or `./results/MO`.
 
 
+## Train script
+While our training script will not be released officially, xanderchf writes a great training script.
+Check it here:
+```
+https://github.com/xanderchf/RGMP
+```
+For pre-training, it is highly recommended to use recent large-scale Youtube-VOS dataset if you want to skip data synthesis from static images (Sect 3.2 in the paper) which is a headache. 
+
+
 ## Use
 #### This software is for Non-commercial Research Purposes only.
 
