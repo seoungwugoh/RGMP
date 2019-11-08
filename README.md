@@ -52,12 +52,12 @@ year = {2018}
 }
 ```
 
-## - Our Related Project
+## Related Project
 Please check out our NEW approach!
 ``` 
 Video Object Segmentation using Space-Time Memory Networks
 Seoung Wug Oh, Joon-Young Lee, Ning Xu, Seon Joo Kim
-CVPR 2018
+ICCV 2019
 ```
 [[paper]](https://arxiv.org/abs/1904.00607)
 [[github]](https://github.com/seoungwugoh/STM)
