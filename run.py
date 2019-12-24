@@ -142,7 +142,7 @@ for seq, (all_F, all_M, info) in enumerate(Testloader):
 
     tt = time.time()
     all_E = Infer_MO(all_F, all_M, num_frames, num_objects, scales=[0.5, 0.75, 1.0])
-    print('{} | num_objects: {}, FPS: {}'.format(seq_name, num_objects, (time.time()-tt)/num_frames))
+    print('{} | num_objects: {}, FPS: {}'.format(seq_name, num_objects, num_frames /(time.time()-tt)))
 
     # Save results for quantitative eval ######################
     if MO:
